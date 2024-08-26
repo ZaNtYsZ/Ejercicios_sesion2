@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2do semestre UAM\\Metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\Sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A0341-9436-4260-A01E-F1EF77E43FE9}|Sesion2\\Sesion2.csproj|c:\\2do semestre uam\\metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3A0341-9436-4260-A01E-F1EF77E43FE9}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3A0341-9436-4260-A01E-F1EF77E43FE9}|Sesion2\\Sesion2.csproj|c:\\2do semestre uam\\metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\sesion2\\sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D3A0341-9436-4260-A01E-F1EF77E43FE9}|Sesion2\\Sesion2.csproj|solutionrelative:sesion2\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\2do semestre UAM\\Metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\Sesion2\\Sesion2\\clases\\persona.cs",
+              "RelativeDocumentMoniker": "Sesion2\\clases\\persona.cs",
+              "ToolTip": "C:\\2do semestre UAM\\Metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\Sesion2\\Sesion2\\clases\\persona.cs",
+              "RelativeToolTip": "Sesion2\\clases\\persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:29:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2do semestre UAM\\Metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion2\\Program.cs",
+              "ToolTip": "C:\\2do semestre UAM\\Metodolog\u00EDa y programaci\u00F3n estructurada\\ejercicios sesion 2\\Sesion2\\Sesion2\\Program.cs",
+              "RelativeToolTip": "Sesion2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:06.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

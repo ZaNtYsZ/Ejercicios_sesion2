@@ -1,0 +1,14 @@
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.exe
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.deps.json
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.runtimeconfig.json
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.dll
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\bin\Debug\net8.0\Sesion2.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfoInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.AssemblyInfo.cs
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.csproj.CoreCompileInputs.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.dll
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\refint\Sesion2.dll
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.pdb
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\Sesion2.genruntimeconfig.cache
+C:\2do semestre UAM\Metodología y programación estructurada\ejercicios sesion 2\Sesion2\Sesion2\obj\Debug\net8.0\ref\Sesion2.dll
